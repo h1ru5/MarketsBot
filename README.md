@@ -26,5 +26,5 @@ Simply compile / download latest release, start the program and follow instructi
 # Compile
 To compile you'll need libcurl, wolfssl and rapidjson
 
-# Suggestions
-If you want to see something added simply open an issue
+# TODO
+Make it cross compilable
